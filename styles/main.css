@@ -1,11 +1,10 @@
 html {
-    background: #dddddd url('../images/cross_scratches.png') repeat;
+    background: #dddddd;
     color: #333333;
 }
 
 body {
     position: absolute;
-    background: url('../images/body_back.png') repeat-y right top;
     margin: 0; padding: 0;
     top: 0; left: 50px; right: 50px;
     min-width: 800px;
@@ -45,7 +44,6 @@ body {
     width: 121px;
     top: 0px; bottom: 0px;
     padding: 160px 41px 15px 65px;
-    background: url('../images/nav_back.png') repeat-y;
     text-align: center;
 }
 #navigation a {
